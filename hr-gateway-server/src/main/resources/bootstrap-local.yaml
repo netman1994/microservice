@@ -1,0 +1,10 @@
+
+
+spring:
+  cloud:
+    nacos:
+      config:
+        server-addr: 127.0.0.1:8848
+        namespace: a652bf9a-db4b-4a26-9850-91e6106874ce
+        group: BEIJING
+        file-extension: yaml

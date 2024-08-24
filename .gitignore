@@ -1,0 +1,8 @@
+/.idea/
+/hr-auth-server/target/
+/hr-common/target/
+/hr-company-server/target/
+/hr-gateway-server/target/
+/hr-monitor-server/target/
+/hr-person-server/person-server-web/target/
+/hr-person-server/person-server-api/target/
