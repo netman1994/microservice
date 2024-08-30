@@ -15,6 +15,7 @@
         <module>hr-person-server</module>
         <module>hr-gateway-server</module>
         <module>hr-monitor-server</module>
+        <module>hr-common-server</module>
     </modules>
 
     <properties>

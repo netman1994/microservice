@@ -4,6 +4,8 @@ server:
 spring:
   application:
     name: hr-monitor-server
+  config:
+    import: classpath:cache.yaml
 
 
   thymeleaf:
